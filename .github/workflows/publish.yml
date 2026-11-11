@@ -1,4 +1,4 @@
-name: Valen's dashboard
+name: Publish dashboard
 
 on:
   workflow_dispatch:
